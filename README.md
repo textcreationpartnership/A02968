@@ -36,11 +36,34 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A declaration and protestation, published by the King of Nauarre, the L. Prince of Conde, and the L.
+
 #####Body#####
-A declaration and protestation, published by the King of Nauarre, the L. Prince of Conde, and the L.
+
+1. The Declaration
+and Proteſtation.
+
+1. A Letter written by the
+King of NAVARRE to the preſidents
+and Members of the Court of
+Parliament for the French
+King at Paris.
+
+1. A Letter from the King
+of Nauarre to the Maſters of the
+Facultie of Deuinitie in the Colledge
+of Sorbonne.
+
+1. An Epiſtle to the
+King.
+
+1. A Declaration of the Articles
+agreed vpon betwene the
+King and the houſe of Guyze and
+their adherents: commonly
+called. The holy League.
+
 #####Back#####
-A declaration and protestation, published by the King of Nauarre, the L. Prince of Conde, and the L.
+depiction of dragon and crown
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
